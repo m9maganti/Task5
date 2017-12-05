@@ -1,4 +1,4 @@
-///////Task5///////
+/////// Task5 ///////
 node
 {
 stage 'integrate'
